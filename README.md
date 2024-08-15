@@ -1,2 +1,2 @@
-# go-git
-A local git contributions visualizer written with golang
+# git-stats
+A local git contributions TUI visualizer written with golang
